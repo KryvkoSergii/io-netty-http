@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<configuration>
+	<server>
+		<user>root</user>	
+		<password>Password</password>
+		<database>NettyBase</database>
+		<table>Table</table>
+	</server>
+</configuration>
